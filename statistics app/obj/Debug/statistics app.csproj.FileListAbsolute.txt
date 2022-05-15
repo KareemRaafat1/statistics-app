@@ -1,0 +1,6 @@
+D:\statistics app\statistics app\obj\Debug\statistics app.csproj.AssemblyReference.cache
+D:\statistics app\statistics app\obj\Debug\statistics app.csproj.SuggestedBindingRedirects.cache
+D:\statistics app\statistics app\obj\Debug\statistics_app.Form1.resources
+D:\statistics app\statistics app\obj\Debug\statistics_app.Properties.Resources.resources
+D:\statistics app\statistics app\obj\Debug\statistics app.csproj.GenerateResource.cache
+D:\statistics app\statistics app\obj\Debug\statistics app.csproj.CoreCompileInputs.cache
